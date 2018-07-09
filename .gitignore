@@ -1,23 +1,7 @@
-Skip to content
-
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @Krotau Sign out
-2,594
-69,635 31,997 github/gitignore
- Code  Pull requests 156  Projects 0  Insights
-gitignore/Global/JetBrains.gitignore
-bb1c447  7 days ago
-@bamapookie bamapookie Separate module directory from project iml exclude
-@bamapookie @thunsaker @samskiter @LazarusX @arcresu @akelsch @victorhaggqvist @DKroot @shiftkey @twhitbeck @tsteinholz @ssinss @rocketraman @RobertoNovelo @Cantido @petermorlion @Omarasifshaikh @nfcopier @meyerlasse @koppor @KenjiOhtsuka @jturmel @Nihlus @yatskevich @ikemo3 @GingerGeek
-
-61 lines (47 sloc)  1.27 KB
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
-# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+.idea
+dist
+node_modules
 
 # User-specific stuff
 .idea/**/workspace.xml
